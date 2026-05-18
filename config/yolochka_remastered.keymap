@@ -34,13 +34,13 @@
         ju-enter {
             bindings = <&kp ENTER>;
             key-positions = <6 16>;
-            layers = <0>;
+            layers = <0 2>;
         };
 
         fr-enter {
             bindings = <&kp ENTER>;
             key-positions = <13 3>;
-            layers = <0>;
+            layers = <0 3>;
         };
 
         go-settings {
